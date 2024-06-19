@@ -1,0 +1,10 @@
+setup.py
+QA.egg-info/PKG-INFO
+QA.egg-info/SOURCES.txt
+QA.egg-info/dependency_links.txt
+QA.egg-info/requires.txt
+QA.egg-info/top_level.txt
+src/__init__.py
+src/QA/QA.py
+src/QA/__init__.py
+src/QA/util.py

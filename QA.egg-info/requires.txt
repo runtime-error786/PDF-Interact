@@ -1,11 +1,9 @@
 openai
-langchain[all]
+langchain
 streamlit
 python-dotenv
 PyPDF2
-huggingface_hub
 pinecone-client
 langchain_community
 langchain_text_splitters
 langchain_pinecone
--e .
